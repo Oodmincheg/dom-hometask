@@ -1,5 +1,5 @@
 // Make a div
-
+const div = document.createElement('div');
 // add a class of wrapper to it
 
 // put it into the body
